@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"19aafc22973b68d5","type":"text","text":"**打印游戏内容**","x":0,"y":-40,"width":250,"height":60,"color":"3"},
+		{"id":"5b27580404a3fc8f","type":"text","text":"**玩家操作**","x":0,"y":100,"width":250,"height":60,"color":"3"},
+		{"id":"048de22a3351086e","type":"text","text":"**移动**","x":0,"y":240,"width":250,"height":60,"color":"3"},
+		{"id":"210fbf6773dc10dc","type":"text","text":"**贪吃蛇游戏**","x":-360,"y":40,"width":250,"height":60,"color":"6"},
+		{"id":"e2fc3aaebbf55a9b","type":"text","text":"**判断蛇的状态**","x":0,"y":-270,"width":250,"height":60,"color":"3"},
+		{"id":"bc6d60a9ff855596","type":"text","text":"是否碰到墙壁或者自己","x":320,"y":-340,"width":270,"height":60},
+		{"id":"57b16d30921dcc04","type":"text","text":"是否吃到果实","x":330,"y":-240,"width":250,"height":60},
+		{"id":"271a6aae0c02de32","type":"text","text":"打印墙壁，蛇，果实","x":330,"y":-40,"width":250,"height":60},
+		{"id":"be27555b9517c8ed","type":"text","text":"用wasd实现贪吃蛇的操控","x":330,"y":100,"width":250,"height":60},
+		{"id":"caa710c420e2da71","type":"text","text":"用操作步骤返回的值实现蛇头以及蛇尾的移动","x":330,"y":240,"width":370,"height":60}
+	],
+	"edges":[
+		{"id":"05de5636fa5578a1","fromNode":"210fbf6773dc10dc","fromSide":"right","toNode":"e2fc3aaebbf55a9b","toSide":"left"},
+		{"id":"c253c6d507b13760","fromNode":"210fbf6773dc10dc","fromSide":"right","toNode":"19aafc22973b68d5","toSide":"left"},
+		{"id":"0c56b1679ca80c76","fromNode":"210fbf6773dc10dc","fromSide":"right","toNode":"5b27580404a3fc8f","toSide":"left"},
+		{"id":"15ea3b2aff7baf1a","fromNode":"210fbf6773dc10dc","fromSide":"right","toNode":"048de22a3351086e","toSide":"left"},
+		{"id":"ac4de6fc63dd2009","fromNode":"e2fc3aaebbf55a9b","fromSide":"right","toNode":"bc6d60a9ff855596","toSide":"left"},
+		{"id":"38cea335a71221fd","fromNode":"e2fc3aaebbf55a9b","fromSide":"right","toNode":"57b16d30921dcc04","toSide":"left"},
+		{"id":"84e784e284a03b4f","fromNode":"e2fc3aaebbf55a9b","fromSide":"bottom","toNode":"19aafc22973b68d5","toSide":"top"},
+		{"id":"55599fd4d4d54442","fromNode":"19aafc22973b68d5","fromSide":"bottom","toNode":"5b27580404a3fc8f","toSide":"top"},
+		{"id":"5970d68a60f8d1df","fromNode":"5b27580404a3fc8f","fromSide":"bottom","toNode":"048de22a3351086e","toSide":"top"},
+		{"id":"83cbf721fb6b3cf2","fromNode":"bc6d60a9ff855596","fromSide":"bottom","toNode":"57b16d30921dcc04","toSide":"top"},
+		{"id":"4ead3dfa6bb639c0","fromNode":"19aafc22973b68d5","fromSide":"right","toNode":"271a6aae0c02de32","toSide":"left"},
+		{"id":"5f291c9a396e4e3c","fromNode":"5b27580404a3fc8f","fromSide":"right","toNode":"be27555b9517c8ed","toSide":"left"},
+		{"id":"334176697e663d50","fromNode":"048de22a3351086e","fromSide":"right","toNode":"caa710c420e2da71","toSide":"left"}
+	]
+}

@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "7dde39ac7ef147ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "860649c48d5c64cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27e318a9fdbc6f42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spider/spider-course/lesson1-4/2.前置知识准备.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.前置知识准备"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3a2a41428d02282",
+    "type": "split",
+    "children": [
+      {
+        "id": "64bb8e644281b419",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "687833b5ba74ee55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6d612d9301aa3743",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f6ab03d35d677af4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fd16523cd774cf83",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e50ca4379a344c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a10db9c0a23d30c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "贪吃蛇流程.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "贪吃蛇流程 的反向链接列表"
+            }
+          },
+          {
+            "id": "ba8282b4294925c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "贪吃蛇流程.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "贪吃蛇流程 的出链列表"
+            }
+          },
+          {
+            "id": "825b1d8b2fa0a7fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "bbffac8327b978de",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f5aefddf19207691",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "贪吃蛇流程.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "贪吃蛇流程 的大纲"
+            }
+          },
+          {
+            "id": "1cf8c9ebb437b9de",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "我的第三篇笔记.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "27e318a9fdbc6f42",
+  "lastOpenFiles": [
+    "sandbox-probe.tmp",
+    "spider/spider-course/lesson13/code/Top250_re.py",
+    "spider/spider-course/lesson13/code/TOP250.py",
+    "spider/spider-course/lesson13/13.re正则表达式抓取豆瓣TOP250.md",
+    "spider/spider-course/lesson13/code",
+    "spider/spider-course/lesson13",
+    "spider/spider-course/lesson12/image/身份证号码组成.png",
+    "spider/spider-course/lesson12/code/demo6.py",
+    "spider/spider-course/lesson12/code/demo5.py",
+    "spider/spider-course/lesson12/code/demo4.py",
+    "spider/spider-course/lesson12/code/demo2.py",
+    "spider/spider-course/lesson12/code/demo3.py",
+    "spider/spider-course/lesson12/code/demo1.py",
+    "spider/spider-course/lesson12/12.re正则表达式.md",
+    "spider/spider-course/lesson12/12.re正则常用匹配内容.md",
+    "spider/spider-course/lesson9/9.示例-安居客获取房价.md",
+    "spider/spider-course/lesson8/8.xpath解析.md",
+    "spider/spider-course/lesson7/7.详解requests以及三种参数.md",
+    "spider/spider-course/lesson6/6.入门示例--北京新发地.md",
+    "spider/spider-course/lesson1-4/1.学习爬虫的目的.md",
+    "spider/spider-course/README.md",
+    "agent learning/hello-agents/docs/chapter1/第一章 初识智能体.md",
+    "spider/spider-course/lesson5/5.入门示例(百度).md",
+    "spider/spider-course/lesson14/playwright/baidu_logo.png",
+    "spider/spider-course/lesson14/14.playwright.md",
+    "spider/spider-course/lesson11/11.bs4示例--图片抓取.md",
+    "spider/spider-course/lesson10/10.BeautifulSoup解析.md",
+    "spider/spider-course/lesson1-4/2.前置知识准备.md",
+    "agent learning/hello-agents/读者反馈问卷.png",
+    "agent learning/hello-agents/读者群二维码.png",
+    "agent learning/hello-agents/README.md",
+    "agent learning/hello-agents/README_EN.md",
+    "agent learning/hello-agents/Co-creation-projects/lcyting-StockSage-agent/skills/巴菲特投资思维/skills/buffett/references/01-thinking-frameworks.md",
+    "agent learning/hello-agents/Co-creation-projects/lcyting-StockSage-agent/skills/巴菲特投资思维/skills/buffett/references/08-industry-playbooks.md",
+    "agent learning/hello-agents/Co-creation-projects/lcyting-StockSage-agent/skills/巴菲特投资思维/skills/buffett/references/07-risk-behavior.md",
+    "agent learning/hello-agents/Co-creation-projects/lcyting-StockSage-agent/skills/巴菲特投资思维/skills/buffett/references/06-valuation-capital.md",
+    "agent learning/hello-agents/Co-creation-projects/lcyting-StockSage-agent/skills/巴菲特投资思维/skills/buffett/references/05-financial-metrics.md",
+    "agent learning/hello-agents/Co-creation-projects/lcyting-StockSage-agent/skills/巴菲特投资思维/skills/buffett/references/04-management-governance.md",
+    "agent learning/hello-agents/Co-creation-projects/lcyting-StockSage-agent/skills/巴菲特投资思维/skills/buffett/references/03-business-moat.md",
+    "agent learning/hello-agents/Co-creation-projects/lcyting-StockSage-agent/skills/巴菲特投资思维/skills/buffett/references/02-investment-philosophy.md",
+    "agent learning/hello-agents/code/chapter15/Helloagents-AI-Town/helloagents-ai-town/assets/characters/character_4.png",
+    "agent learning/hello-agents/code/chapter15/Helloagents-AI-Town/helloagents-ai-town/assets/characters/character_3.png",
+    "agent learning/hello-agents/code/chapter15/Helloagents-AI-Town/helloagents-ai-town/assets/characters/character_2.png",
+    "agent learning/hello-agents/code/chapter15/Helloagents-AI-Town/helloagents-ai-town/assets/characters/character_1.png",
+    "agent learning/hello-agents/code/chapter15/Helloagents-AI-Town/helloagents-ai-town/assets/ui/UI_48x48.png",
+    "agent learning/hello-agents/code/chapter15/Helloagents-AI-Town/helloagents-ai-town/assets/interiors/小鲸鱼.png",
+    "c语言项目/鸢尾花分类.canvas",
+    "workermanager/保存文件.canvas",
+    "workermanager/添加职工.canvas",
+    "workermanager/未命名.canvas",
+    "workermanager/职工类的实现.canvas",
+    "未命名.canvas",
+    "同花顺/流程.canvas",
+    "snake/贪吃蛇流程.canvas",
+    "snake/未命名.canvas",
+    "snake/贪吃蛇对象.canvas"
+  ]
+}

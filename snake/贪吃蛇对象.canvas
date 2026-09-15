@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"50c2b40789f6ab07","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"墙壁"},
+		{"id":"f9b1902e763bb7b0","x":-125,"y":40,"width":250,"height":60,"type":"text","text":"果实"},
+		{"id":"f0abcf92107e1fa8","x":-125,"y":-100,"width":250,"height":60,"type":"text","text":"蛇"}
+	],
+	"edges":[]
+}

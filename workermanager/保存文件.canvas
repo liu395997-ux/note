@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"21c711ebc1c191fd","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"打开后依次保存"},
+		{"id":"a671436fdc804477","x":-420,"y":-30,"width":250,"height":60,"type":"text","text":"创建文件变量ofs"}
+	],
+	"edges":[]
+}

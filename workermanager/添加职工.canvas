@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"a0babff1e01d7fd5","x":-540,"y":10,"width":250,"height":60,"type":"text","text":"输入并存放新的数据"},
+		{"id":"6335d66610b71553","x":-250,"y":10,"width":250,"height":60,"type":"text","text":"释放原有空间"},
+		{"id":"49f06f43938bd29c","x":30,"y":10,"width":250,"height":60,"type":"text","text":"更新指针指向"},
+		{"id":"37b0c18770a4793b","x":310,"y":10,"width":250,"height":60,"type":"text","text":"更新新的个数"},
+		{"id":"164d643713fc9c92","x":-500,"y":-180,"width":250,"height":60,"type":"text","text":"创建职工二维数组和职工数量的数据"},
+		{"id":"bbcf6159dc97c59e","x":-220,"y":-180,"width":250,"height":60,"type":"text","text":"输入新的职工数量并计算新空间大小"},
+		{"id":"1fe57b127dbafaab","x":60,"y":-180,"width":250,"height":60,"type":"text","text":"把原空间的数据放到新空间（新空间指向原空间）"},
+		{"id":"e5a91d6c1ec26fba","x":-580,"y":200,"width":250,"height":60,"color":"2","type":"text","text":"计算新空间大小"},
+		{"id":"dac3be8c53f7a9bf","x":-580,"y":280,"width":250,"height":60,"color":"2","type":"text","text":"开辟新空间"},
+		{"id":"8dea395beadff507","x":-580,"y":360,"width":250,"height":60,"color":"2","type":"text","text":"将原空间下内容放到新空间下"},
+		{"id":"a82d45731797f77e","x":-580,"y":440,"width":250,"height":53,"color":"2","type":"text","text":"输入新数据"},
+		{"id":"9be51a847dc782f6","type":"text","text":"更新指针指向","x":-20,"y":437,"width":250,"height":60,"color":"2"},
+		{"id":"e1781089f5665655","type":"text","text":"更新新的个数","x":260,"y":437,"width":250,"height":60,"color":"2"},
+		{"id":"cabf1d8f84504a45","type":"text","text":"释放原有空间","x":-300,"y":437,"width":250,"height":60,"color":"2"},
+		{"id":"d781118f9676fd5b","x":-580,"y":120,"width":250,"height":60,"color":"2","type":"text","text":"输入新加的职工数量"}
+	],
+	"edges":[
+		{"id":"2f8ea2c57c10dae3","fromNode":"164d643713fc9c92","fromSide":"right","toNode":"bbcf6159dc97c59e","toSide":"left"},
+		{"id":"2804a2ec407a7bd0","fromNode":"bbcf6159dc97c59e","fromSide":"right","toNode":"1fe57b127dbafaab","toSide":"left"},
+		{"id":"85f276b07e3f8760","fromNode":"1fe57b127dbafaab","fromSide":"bottom","toNode":"a0babff1e01d7fd5","toSide":"top"},
+		{"id":"90b1685b402b2331","fromNode":"a0babff1e01d7fd5","fromSide":"right","toNode":"6335d66610b71553","toSide":"left"},
+		{"id":"146243306f91a14d","fromNode":"6335d66610b71553","fromSide":"right","toNode":"49f06f43938bd29c","toSide":"left"},
+		{"id":"7f99ebb932109a6d","fromNode":"49f06f43938bd29c","fromSide":"right","toNode":"37b0c18770a4793b","toSide":"left"},
+		{"id":"68f01ec31cf4c923","fromNode":"cabf1d8f84504a45","fromSide":"right","toNode":"9be51a847dc782f6","toSide":"left"},
+		{"id":"4e0b3fc8251a7307","fromNode":"9be51a847dc782f6","fromSide":"right","toNode":"e1781089f5665655","toSide":"left"},
+		{"id":"a6f150867365b45c","fromNode":"e5a91d6c1ec26fba","fromSide":"bottom","toNode":"dac3be8c53f7a9bf","toSide":"top"},
+		{"id":"505a61ed52555fb2","fromNode":"dac3be8c53f7a9bf","fromSide":"bottom","toNode":"8dea395beadff507","toSide":"top"},
+		{"id":"bceebb063f117c22","fromNode":"8dea395beadff507","fromSide":"bottom","toNode":"a82d45731797f77e","toSide":"top"},
+		{"id":"452b79f5e7232b5d","fromNode":"a82d45731797f77e","fromSide":"right","toNode":"cabf1d8f84504a45","toSide":"left"},
+		{"id":"1f44a732de728b4b","fromNode":"d781118f9676fd5b","fromSide":"bottom","toNode":"e5a91d6c1ec26fba","toSide":"top"}
+	]
+}

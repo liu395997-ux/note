@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"d780cf1ffbffb5c5","x":-340,"y":-260,"width":250,"height":60,"type":"text","text":"确定股票池"},
+		{"id":"05c4294770ed2f53","x":-340,"y":-160,"width":250,"height":60,"type":"text","text":"构建组合"},
+		{"id":"b7952adb0d481fcb","x":-340,"y":-60,"width":250,"height":60,"type":"text","text":"明确交易方向"},
+		{"id":"ab6cf7949f9cec98","x":-340,"y":40,"width":250,"height":60,"type":"text","text":"设定调舱规则"},
+		{"id":"f6d450f1c250e682","x":-20,"y":-260,"width":250,"height":60,"type":"text","text":"导入库"},
+		{"id":"ed757570d60f1a0e","x":-20,"y":-160,"width":250,"height":60,"type":"text","text":"配置参数"},
+		{"id":"2d83abdd259635ba","x":-20,"y":-60,"width":250,"height":60,"type":"text","text":"预处理函数"},
+		{"id":"61d0bdd8ac985ffa","x":40,"y":120,"width":250,"height":60,"type":"text","text":"因子清洗"},
+		{"id":"eefc6709e35df6a9","x":-20,"y":40,"width":250,"height":60,"type":"text","text":"主要流程"},
+		{"id":"8adf4976bd6b187f","x":-240,"y":121,"width":250,"height":59,"type":"text","text":"数据准备"}
+	],
+	"edges":[
+		{"id":"e80fa136b7e51b72","fromNode":"d780cf1ffbffb5c5","fromSide":"bottom","toNode":"05c4294770ed2f53","toSide":"top"},
+		{"id":"319fe14f2d1ff003","fromNode":"05c4294770ed2f53","fromSide":"bottom","toNode":"b7952adb0d481fcb","toSide":"top"},
+		{"id":"67e29d1112e909d1","fromNode":"b7952adb0d481fcb","fromSide":"bottom","toNode":"ab6cf7949f9cec98","toSide":"top"}
+	]
+}

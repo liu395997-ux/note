@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"1844efd9a2e77884","type":"text","text":"","x":-380,"y":80,"width":250,"height":60},
+		{"id":"dcb9ba100c279c7b","type":"file","file":"snake/常见markdown文档内容.md","x":65,"y":-60,"width":400,"height":400},
+		{"id":"5d947b77a0c60a25","type":"text","text":"","x":-100,"y":-200,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"c8ee91954bb5c3c1","fromNode":"1844efd9a2e77884","fromSide":"top","toNode":"5d947b77a0c60a25","toSide":"top"}
+	]
+}

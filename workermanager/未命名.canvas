@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"2bff665c3841cad1","type":"text","text":"创建工作人员的大类","x":-640,"y":-240,"width":250,"height":60},
+		{"id":"ea17540ef8a07735","type":"text","text":"读取文件初始化数组","x":-335,"y":-240,"width":250,"height":60},
+		{"id":"3b1f087862220efb","type":"text","text":"用指针数组存放人员信息","x":-40,"y":-240,"width":250,"height":60},
+		{"id":"17f37ec34f57bb51","x":265,"y":-240,"width":250,"height":60,"type":"text","text":"添加职工"},
+		{"id":"036eba5315f79143","type":"text","text":"修改职工","x":265,"y":-160,"width":250,"height":50},
+		{"id":"d78de6d5147b9bad","x":265,"y":-80,"width":250,"height":60,"type":"text","text":"排序职工"},
+		{"id":"1b097bb4f404b5e8","type":"text","text":"删除职工","x":265,"y":18,"width":250,"height":60},
+		{"id":"b2c524b9d2553df1","type":"text","text":"显示职工","x":265,"y":108,"width":250,"height":60},
+		{"id":"cb56b86965d5f1e7","x":265,"y":280,"width":250,"height":60,"type":"text","text":"清空文件"},
+		{"id":"ba58e20ca5914ad5","type":"text","text":"查找职工","x":265,"y":200,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f211e79a5ef292ea","fromNode":"2bff665c3841cad1","fromSide":"right","toNode":"ea17540ef8a07735","toSide":"left"},
+		{"id":"acec69d37f2a0902","fromNode":"ea17540ef8a07735","fromSide":"right","toNode":"3b1f087862220efb","toSide":"left"},
+		{"id":"89e5ea3b350c4da3","fromNode":"3b1f087862220efb","fromSide":"right","toNode":"17f37ec34f57bb51","toSide":"left"},
+		{"id":"74347f073e71466c","fromNode":"3b1f087862220efb","fromSide":"bottom","toNode":"036eba5315f79143","toSide":"left"},
+		{"id":"adb7c2e60ffbd565","fromNode":"3b1f087862220efb","fromSide":"bottom","toNode":"d78de6d5147b9bad","toSide":"left"},
+		{"id":"240a834968bd5f4a","fromNode":"3b1f087862220efb","fromSide":"bottom","toNode":"1b097bb4f404b5e8","toSide":"left"},
+		{"id":"18be48d86ae2a96b","fromNode":"3b1f087862220efb","fromSide":"bottom","toNode":"b2c524b9d2553df1","toSide":"left"},
+		{"id":"1906ec80d1df98b4","fromNode":"3b1f087862220efb","fromSide":"bottom","toNode":"cb56b86965d5f1e7","toSide":"left"},
+		{"id":"71d1e493468dbee4","fromNode":"3b1f087862220efb","fromSide":"bottom","toNode":"ba58e20ca5914ad5","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a9510e3c89f41495","x":-420,"y":-200,"width":250,"height":60,"type":"text","text":"创建职工类包含的信息和函数功能"},
+		{"id":"d10ae98ace90818f","x":-100,"y":-200,"width":250,"height":60,"type":"text","text":"继承到子类的分类中并实现具体函数"}
+	],
+	"edges":[
+		{"id":"b566780fcfbf12d4","fromNode":"a9510e3c89f41495","fromSide":"right","toNode":"d10ae98ace90818f","toSide":"left"}
+	]
+}
