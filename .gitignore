@@ -1,8 +1,5 @@
 # ---- 仅在本地保留，不上传到 GitHub ----
 
-# 第三方课程仓库克隆（独立 git 仓库，且其中 .env 含真实 API key）
-/agent learning/
-
 # Python 虚拟环境 / 缓存
 .venv/
 venv/
